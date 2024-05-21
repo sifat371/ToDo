@@ -14,7 +14,7 @@ function addTask() {
     alert("Type something");
   } else {
     list = document.createElement("p");
-    list.id = `print${count}`;
+    // list.id = `print${count}`;
     list.innerHTML = input.value;
     li.appendChild(list);
     input.value = "";
