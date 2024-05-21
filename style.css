@@ -1,0 +1,24 @@
+.box .input-filled #input {
+
+    height: 10px;
+    width: 100px;
+    padding: 10px 10px 10px;
+    border: none;
+    border-radius: 0%;
+    background: burlywood;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#box {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(16, 36, 53);
+
+}
+
+#container {
+    width: 100px;
+    height: 50;
+}
